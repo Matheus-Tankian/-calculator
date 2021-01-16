@@ -2,6 +2,9 @@
 
 A new Flutter application.
 
+![homeimg](https://github.com/Matheus-Tankian/-calculator/blob/main/imgProject/imgCalc.jpeg)
+![homegif](https://github.com/Matheus-Tankian/-calculator/blob/main/imgProject/GifCalc.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
